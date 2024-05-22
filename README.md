@@ -39,3 +39,10 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+### Run Crawler for Algolia
+
+```bash
+docker run -it --env-file=.env.crawler -e "CONFIG=$(cat ./crawler.config.json | jq -r tostring)" algolia/docsearch-scraper
+```

@@ -1,3 +1,4 @@
+// docusaurus.config.ts
 require('dotenv').config();
 
 import { themes as prismThemes } from 'prism-react-renderer';
@@ -10,7 +11,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://tiahui.tech',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -131,12 +132,12 @@ const config: Config = {
     },
     algolia: {
       // The application ID provided by Algolia
-      appId: process.env.ALGOLIA_APPLICATION_ID,
+      appId: process.env.ALGOLIA_APP_ID,
 
       // Public API key: it is safe to commit it
-      apiKey: process.env.ALGOLIA_API_KEY,
+      apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
 
-      indexName: 'dev_tiahui-tech',
+      indexName: 'tiahui-tech',
 
       // Optional: see doc section below
       contextualSearch: true,
