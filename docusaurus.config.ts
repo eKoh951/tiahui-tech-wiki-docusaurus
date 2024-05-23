@@ -38,15 +38,12 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          sidebarCollapsible: false,
           editUrl:
             'https://github.com/eKoh951/tiahui-tech-wiki-docusaurus/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/eKoh951/tiahui-tech-wiki-docusaurus/',
         },
@@ -94,7 +91,7 @@ const config: Config = {
           items: [
             {
               label: 'Sobre nosotros',
-              to: '/docs/sobre-nosotros',
+              to: '/docs/about',
             },
           ],
         },
