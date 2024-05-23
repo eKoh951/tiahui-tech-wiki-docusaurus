@@ -40,12 +40,12 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           sidebarCollapsible: false,
           editUrl:
-            'https://github.com/eKoh951/tiahui-tech-wiki-docusaurus/',
+            'https://github.com/eKoh951/tiahui-tech-wiki-docusaurus/tree/main/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/eKoh951/tiahui-tech-wiki-docusaurus/',
+            'https://github.com/eKoh951/tiahui-tech-wiki-docusaurus/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
