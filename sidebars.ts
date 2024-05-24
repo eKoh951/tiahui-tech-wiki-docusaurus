@@ -16,7 +16,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Sobre nosotros',
       link: { type: 'doc', id: 'intro' },
-      items: ['about', 'strategy', 'long-term-goals', 'foda-analysis'],
+      items: ['about', 'strategy', 'long-term-goals', 'foda-analysis', 'resources-and-capabilities'],
     },
   ],
 };
