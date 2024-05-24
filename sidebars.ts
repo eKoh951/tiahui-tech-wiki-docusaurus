@@ -1,4 +1,4 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
 /**
  * Creating a sidebar enables you to:
@@ -16,7 +16,12 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Sobre nosotros',
       link: { type: 'doc', id: 'intro' },
-      items: ['about', 'strategy', 'long-term-goals', 'foda-analysis', 'resources-and-capabilities', 'organizational-structure'],
+      items: ['about', 'strategy', {
+        type: 'category',
+        label: 'OKRs y KPIs 2024',
+        link: { type: 'doc', id: 'okrs-kpis/index'},
+        items: ['okrs-kpis/q2', 'okrs-kpis/q3'],
+      }, 'long-term-goals', 'foda-analysis', 'resources-and-capabilities', 'organizational-structure'],
     },
   ],
 };
