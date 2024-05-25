@@ -18,7 +18,7 @@ const sidebars: SidebarsConfig = {
       link: { type: 'doc', id: 'intro' },
       items: ['about', 'strategy', {
         type: 'category',
-        label: 'OKRs y KPIs 2024',
+        label: 'Objetivos 2024',
         link: { type: 'doc', id: 'okrs-kpis/index'},
         items: ['okrs-kpis/q2', 'okrs-kpis/q3'],
       }, 'long-term-goals', 'foda-analysis', 'resources-and-capabilities', 'organizational-structure'],
