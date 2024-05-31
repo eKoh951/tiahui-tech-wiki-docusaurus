@@ -14,7 +14,7 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Sobre nosotros',
+      label: 'Tiahui.Tech',
       link: { type: 'doc', id: 'intro' },
       items: ['about', 'strategy', {
         type: 'category',
