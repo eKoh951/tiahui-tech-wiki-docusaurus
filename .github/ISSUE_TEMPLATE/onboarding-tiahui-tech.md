@@ -17,66 +17,26 @@ assignees: ''
 
 # Bienvenido a Tiahui.tech
 
-¡Bienvenido al equipo de Tiahui.tech! Nos alegra que te unas a nosotros. Para empezar, es importante que entiendas quiénes somos, nuestra misión, visión y valores. 
+¡Bienvenido al equipo de Tiahui.tech! Nos alegra que te unas a nosotros. Para empezar, sigue los pasos del checklist a continuación para completar tu proceso de onboarding. Cada paso tiene un enlace a la documentación relevante para que puedas profundizar en la información.
 
-## Sobre Nosotros
+## Checklist de Onboarding
 
-Tiahui.tech es una empresa dedicada a [Breve descripción de la empresa]. Puedes leer más sobre nosotros en el siguiente enlace:
-- [Sobre nosotros](https://www.tiahui.tech/docs/about)
+### Conociendo Tiahui.tech
 
-## Misión
+- [ ] **Sobre nosotros**: Lee sobre quiénes somos y nuestros fundadores. [Leer más](https://www.tiahui.tech/docs/about)
+- [ ] **Nuestra Misión**: Comprende el propósito de Tiahui.tech. [Leer más](https://www.tiahui.tech/docs/about#misi%C3%B3n)
+- [ ] **Nuestra Visión**: Conoce nuestras aspiraciones y objetivos a largo plazo. [Leer más](https://www.tiahui.tech/docs/about#visi%C3%B3n)
+- [ ] **Nuestros Valores**: Familiarízate con los valores fundamentales que guían nuestro trabajo. [Leer más](https://www.tiahui.tech/docs/about#visi%C3%B3n)
 
-Nuestra misión es [descripción de la misión]. Lee más sobre nuestra misión aquí:
-- [Misión](https://www.tiahui.tech/docs/about#misi%C3%B3n)
+### Estrategia y Objetivos
 
-## Visión
+- [ ] **Pilares Estratégicos**: Aprende sobre los pilares que sustentan nuestra estrategia. [Leer más](https://www.tiahui.tech/docs/strategy)
+- [ ] **Objetivos 2024**: Revisa nuestros objetivos y resultados clave para el año. [Leer más](https://www.tiahui.tech/docs/objectives)
+- [ ] **OKRs y KPIs**: Entiende cómo medimos nuestro progreso y desempeño. [Leer más](https://www.tiahui.tech/docs/objectives#okrs-y-kpis)
 
-Nuestra visión es [descripción de la visión]. Lee más sobre nuestra visión aquí:
-- [Visión](https://www.tiahui.tech/docs/about#visi%C3%B3n)
+### Completa el quiz de Onboarding
 
-## Valores
-
-Nuestros valores son [descripción de los valores]. Puedes leer más sobre nuestros valores aquí:
-- [Valores](https://www.tiahui.tech/docs/about#visi%C3%B3n)
-
-## Tareas de Onboarding
-
-1. **Leer Documentación**
-   - Revisa los enlaces proporcionados arriba para entender mejor quiénes somos y qué hacemos.
-
-2. **Configurar Entorno de Trabajo**
-   - [Instrucciones para configurar el entorno de desarrollo]
-
-3. **Realizar Primer Commit**
-   - Realiza un pequeño cambio en el proyecto y abre un pull request.
-
-4. **Quiz de Onboarding**
-   - Completa el siguiente quiz para asegurarnos de que has comprendido la información clave.
-
-## Quiz de Onboarding
-
-Por favor, responde las siguientes preguntas para demostrar tu comprensión sobre Tiahui.tech:
-
-1. ¿Qué es Tiahui.tech?
-2. ¿Cuál es nuestra misión?
-3. ¿Cuál es nuestra visión?
-4. ¿Cuáles son nuestros valores principales?
-
-## Feedback del Onboarding
-
-Nos encantaría recibir tu feedback sobre el proceso de onboarding. Por favor, responde las siguientes preguntas:
-
-1. ¿El proceso de onboarding fue claro y fácil de seguir?
-2. ¿Hubo alguna parte del proceso que te resultó confusa o difícil?
-3. ¿Cómo podríamos mejorar nuestro proceso de onboarding?
-
-## Checklist
-
-- [ ] He leído la documentación sobre Tiahui.tech
-- [ ] He configurado mi entorno de trabajo
-- [ ] He realizado mi primer commit
-- [ ] He completado el quiz de onboarding
-- [ ] He proporcionado feedback sobre el proceso de onboarding
+- [ ] **Completar el Quiz de Onboarding**: Asegúrate de haber comprendido la información clave completando el quiz. [Completar el Quiz](https://forms.gle/HA1KSWknwzerrGa88)
 
 Si tienes alguna pregunta o necesitas ayuda, no dudes en contactar a tu mentor o supervisor.
 
