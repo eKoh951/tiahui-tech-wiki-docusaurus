@@ -40,7 +40,7 @@
 			"type": "css"
 		},
 		"text": {
-			"selector": "article p, article li, article td",
+			"selector": "article p, article li, article td:last-child",
 			"type": "css"
 		}
 	},

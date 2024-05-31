@@ -6,6 +6,7 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 import Translate, { translate } from '@docusaurus/Translate';
+import Button from '@site/src/components/Button';
 
 import styles from './index.module.css';
 
@@ -16,11 +17,12 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          <Translate>Welcome to my website</Translate>
+          Bienvenido a Tiahui.Tech
         </Heading>
         <p className="hero__subtitle">
-          <Translate>{siteConfig.tagline}</Translate>
+          Este sitio es nuestro banco de informacion, donde plasmamos nuestras ideas.
         </p>
+        <Button label="Conoce sobre nosotros" link="/docs/about" variant="secondary"/>
       </div>
     </header>
   );
