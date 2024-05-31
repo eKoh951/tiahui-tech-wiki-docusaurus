@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   
   return (
     <Layout
-      title={`Hola :) | ${siteConfig.title}`}
+      title={`Bienvenido`}
       description="Tiahui.Tech: Transformando vidas con tecnología y educación">
       <HomepageHeader />
       <main>
