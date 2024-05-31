@@ -10,18 +10,39 @@
 	"stop_urls": [],
 	"selectors": {
 		"lvl0": {
-			"selector": "(//ul[contains(@class,'menu__list')]//a[contains(@class, 'menu__link menu__link--sublist menu__link--active')]/text() | //nav[contains(@class, 'navbar')]//a[contains(@class, 'navbar__link--active')]/text())[last()]",
+			"selector": "//nav[contains(@class, 'navbar')]//a[contains(@class, 'navbar__link--active')]/text()",
 			"type": "xpath",
 			"global": true,
 			"default_value": "Documentation"
 		},
-		"lvl1": "header h1",
-		"lvl2": "article h2",
-		"lvl3": "article h3",
-		"lvl4": "article h4",
-		"lvl5": "article h5, article td:first-child",
-		"lvl6": "article h6",
-		"text": "article p, article li, article td:last-child"
+		"lvl1": {
+			"selector": "article h1",
+			"type": "css"
+		},
+		"lvl2": {
+			"selector": "article h2",
+			"type": "css"
+		},
+		"lvl3": {
+			"selector": "article h3",
+			"type": "css"
+		},
+		"lvl4": {
+			"selector": "article h4",
+			"type": "css"
+		},
+		"lvl5": {
+			"selector": "article h5",
+			"type": "css"
+		},
+		"lvl6": {
+			"selector": "article h6",
+			"type": "css"
+		},
+		"text": {
+			"selector": "article p, article li, article td",
+			"type": "css"
+		}
 	},
 	"strip_chars": " .,;:#",
 	"custom_settings": {

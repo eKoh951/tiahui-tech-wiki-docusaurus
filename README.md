@@ -43,6 +43,8 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ### Run Crawler for Algolia
 
+(Docs)[https://docsearch.algolia.com/docs/legacy/run-your-own/]
+
 ```bash
-docker run -it --env-file=.env -e "CONFIG=$(cat ./crawler.config.json | jq -r tostring)" algolia/docsearch-scraper
+docker run -it --env-file=.env.crawler -e "CONFIG=$(cat ./crawler.config.json | jq -r tostring)" algolia/docsearch-scraper
 ```

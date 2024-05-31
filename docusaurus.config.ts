@@ -155,7 +155,7 @@ const config: Config = {
 
       // Optional: Algolia search parameters
       searchParameters: {
-        facetFilters: ['language:en', ['filter1', 'filter2'], 'filter3'],
+        facetFilters: ['language:es', ['filter1', 'filter2'], 'filter3'],
       },
 
       // Optional: path for search page that enabled by default (`false` to disable it)
