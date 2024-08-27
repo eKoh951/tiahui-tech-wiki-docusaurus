@@ -35,6 +35,7 @@ const sidebars: SidebarsConfig = {
           link: { type: "doc", id: "processes/index" },
           items: ["processes/interviews"],
         },
+        "tiers/developers",
       ],
     },
   ],
